@@ -35,6 +35,12 @@
 				<Event name="OnChange">ДополнительныйРеквизитПриИзменении</Event>
 			</Events>
 		</InputField>
+		<InputField name="ВидНоменклатуры" id="13">
+			<DataPath>Объект.ВидНоменклатуры</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ВидНоменклатурыКонтекстноеМеню" id="14"/>
+			<ExtendedTooltip name="ВидНоменклатурыРасширеннаяПодсказка" id="15"/>
+		</InputField>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">

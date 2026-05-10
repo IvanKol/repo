@@ -288,10 +288,7 @@
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Покупатели</Catalog>
 			<Catalog>ВидНоменклатуры</Catalog>
-<<<<<<< HEAD
-=======
 			<Catalog>ТипНоменклатуры</Catalog>
->>>>>>> task-001
 			<Document>ЗаказПокупателя</Document>
 			<Document>ТехническийДокументКакРегистратор</Document>
 			<DataProcessor>Транзакции</DataProcessor>
