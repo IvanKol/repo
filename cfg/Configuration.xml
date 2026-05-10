@@ -287,6 +287,8 @@
 			<CommonModule>Бонусы</CommonModule>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Покупатели</Catalog>
+			<Catalog>ВидНоменклатуры</Catalog>
+			<Catalog>ТипНоменклатуры</Catalog>
 			<Document>ЗаказПокупателя</Document>
 			<Document>ТехническийДокументКакРегистратор</Document>
 			<DataProcessor>Транзакции</DataProcessor>

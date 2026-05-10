@@ -9,6 +9,7 @@
 			<Metadata name="AccumulationRegister.Товары.Dimension.Номенклатура" id="0322cd0c-414b-40f3-ba9d-a8bff4be77bd"/>
 			<Metadata name="AccumulationRegister.Товары.Resource.Количество" id="90b00ac5-9ab9-4741-ade8-95b1ebe26c18"/>
 		</Metadata>
+		<Metadata name="Catalog.ВидНоменклатуры" id="1243e8cd-f0fc-4457-9d14-10b2dc385f2c" configVersion="5c75e8b6a22a7849b84cb539f205a3a400000000"/>
 		<Metadata name="Catalog.Номенклатура" id="32a84d94-acb0-433f-9f24-8075ae89230d" configVersion="d81bec9c4b309241a4e5e37290302ed200000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="0dc52767-48b5-4f56-803b-cfc77766d752"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.ДополнительныйРеквизит" id="387e2c22-bce3-408b-a4ec-d3d7e2f72a82"/>
@@ -16,6 +17,7 @@
 		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="f42633c9-553e-4414-8ca9-771e4c5afeb6" configVersion="96fd3bdb3f2d7c4dab468ab1e21a19a900000000"/>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="f42633c9-553e-4414-8ca9-771e4c5afeb6.0" configVersion="e4e83409680b2c4da7989e26523ad14c00000000"/>
 		<Metadata name="Catalog.Покупатели" id="1e6e644d-1b5e-442d-a45f-1e0a9b94e12c" configVersion="f0a9cd6641cd6a4b82266f87af2d405e00000000"/>
+		<Metadata name="Catalog.ТипНоменклатуры" id="0e7279d3-1e0a-4420-9cfa-7b1b0516b144" configVersion="699934ae8e607b42a262ea5d7852d48400000000"/>
 		<Metadata name="CommonModule.Бонусы" id="58d5cd53-bd8b-4b99-966b-498f732777a4" configVersion="4f374b28e8cc18458412a77720de679700000000"/>
 		<Metadata name="CommonModule.Бонусы.Module" id="58d5cd53-bd8b-4b99-966b-498f732777a4.0" configVersion="db5ca7331e95d24b9b2fb7c7dfe777b800000000"/>
 		<Metadata name="CommonModule.Заказы" id="91f1357d-e552-4b76-af21-53d28cbfbca7" configVersion="68b87e8baa398e40a4b562cf5a076fb700000000"/>
@@ -32,7 +34,7 @@
 		<Metadata name="CommonModule.Сущности.Module" id="f10aab1d-18b1-43b3-94f0-78de1d14d7f1.0" configVersion="794e7d67f9f74940a01712997e25301a00000000"/>
 		<Metadata name="CommonModule.ЮзКейс_ОформитьЗаказ" id="c27d0836-3d22-4955-b291-4e10f020a828" configVersion="4e68fa8a77b8ef4082bfaab8f0f6b7d600000000"/>
 		<Metadata name="CommonModule.ЮзКейс_ОформитьЗаказ.Module" id="c27d0836-3d22-4955-b291-4e10f020a828.0" configVersion="b1cdb9431b643b4ba3e7ed9a437a20c700000000"/>
-		<Metadata name="Configuration.ЖелтыйКлуб_ЧистаяАрхитектура" id="5e868f24-a482-48f3-865b-0812ac6614bf" configVersion="1c6bb7721c437d4b96de41a2d6edeaa900000000"/>
+		<Metadata name="Configuration.ЖелтыйКлуб_ЧистаяАрхитектура" id="5e868f24-a482-48f3-865b-0812ac6614bf" configVersion="62994f96e2b75442953381826560452f00000000"/>
 		<Metadata name="Configuration.ЖелтыйКлуб_ЧистаяАрхитектура.Logo" id="35477c6f-2c9a-4cad-b857-dfd85a8ba7fa.1" configVersion="f3d3e76e7a88d84cbef713151ed9050000000000"/>
 		<Metadata name="Configuration.ЖелтыйКлуб_ЧистаяАрхитектура.Splash" id="35477c6f-2c9a-4cad-b857-dfd85a8ba7fa.2" configVersion="b264866704c84742836290a30544d67700000000"/>
 		<Metadata name="DataProcessor.ПолучениеИЗШИНЫ" id="6185a20d-c59e-4e89-a21d-d3250afe06bf" configVersion="4f5dc441a8510e4c892c46f000e42ebd00000000"/>
