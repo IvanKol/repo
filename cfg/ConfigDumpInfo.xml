@@ -9,8 +9,9 @@
 			<Metadata name="AccumulationRegister.Товары.Dimension.Номенклатура" id="0322cd0c-414b-40f3-ba9d-a8bff4be77bd"/>
 			<Metadata name="AccumulationRegister.Товары.Resource.Количество" id="90b00ac5-9ab9-4741-ade8-95b1ebe26c18"/>
 		</Metadata>
-		<Metadata name="Catalog.Номенклатура" id="32a84d94-acb0-433f-9f24-8075ae89230d" configVersion="a082f51f34bb9c4fa8986861c06b970900000000">
+		<Metadata name="Catalog.Номенклатура" id="32a84d94-acb0-433f-9f24-8075ae89230d" configVersion="f69618956c44464a9beab12406f94f4c00000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="0dc52767-48b5-4f56-803b-cfc77766d752"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ДополнительныйРеквизит" id="387e2c22-bce3-408b-a4ec-d3d7e2f72a82"/>
 		</Metadata>
 		<Metadata name="Catalog.Покупатели" id="1e6e644d-1b5e-442d-a45f-1e0a9b94e12c" configVersion="f0a9cd6641cd6a4b82266f87af2d405e00000000"/>
 		<Metadata name="CommonModule.Бонусы" id="58d5cd53-bd8b-4b99-966b-498f732777a4" configVersion="4f374b28e8cc18458412a77720de679700000000"/>
